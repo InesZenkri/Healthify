@@ -1,0 +1,7 @@
+# Local credentials and build output
+.env
+.env.*
+!.env.example
+backend/target/
+frontend/healthify/node_modules/
+frontend/healthify/build/
